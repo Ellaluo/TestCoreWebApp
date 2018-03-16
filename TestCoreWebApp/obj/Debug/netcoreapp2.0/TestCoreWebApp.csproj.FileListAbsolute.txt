@@ -1,0 +1,11 @@
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\bin\Debug\netcoreapp2.0\TestCoreWebApp.deps.json
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\bin\Debug\netcoreapp2.0\TestCoreWebApp.runtimeconfig.json
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\bin\Debug\netcoreapp2.0\TestCoreWebApp.runtimeconfig.dev.json
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\bin\Debug\netcoreapp2.0\TestCoreWebApp.dll
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\bin\Debug\netcoreapp2.0\TestCoreWebApp.pdb
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\obj\Debug\netcoreapp2.0\TestCoreWebApp.csprojResolveAssemblyReference.cache
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\obj\Debug\netcoreapp2.0\TestCoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\obj\Debug\netcoreapp2.0\TestCoreWebApp.AssemblyInfoInputs.cache
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\obj\Debug\netcoreapp2.0\TestCoreWebApp.AssemblyInfo.cs
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\obj\Debug\netcoreapp2.0\TestCoreWebApp.dll
+C:\Users\ellal\source\repos\TestCoreWebApp\TestCoreWebApp\obj\Debug\netcoreapp2.0\TestCoreWebApp.pdb
